@@ -106,7 +106,9 @@
 
 
 <script>
+import DataTable from 'datatables.net-vue3'
 import data from "../assets/data.json";
+
 export default {
   data: function () {
     return {
